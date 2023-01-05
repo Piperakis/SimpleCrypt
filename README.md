@@ -1,4 +1,4 @@
-# PepperCrypt
+# SimpleCrypt
 Simple XOR encrypting algorithm created with Python 3.6.
 
 ## Libraries needed
